@@ -1,0 +1,179 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "01F1DD01-02E1-42D6-9EA4643E8904058B"
+			RelativePath = "Custom Elements\Background.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Custom Elements\Background.gui"/>
+		<FileInfo
+			ID = "0364FC19-F057-4E28-83C5E510D287B0C0"
+			RelativePath = "stroryboardTuvanPhanhoi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "stroryboardTuvanPhanhoi.gui"/>
+		<FileInfo
+			ID = "06BF9CFC-FC5C-4FDB-A0885C24A6B692EA"
+			RelativePath = "Screen 3a.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 3.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "077DD459-1F3D-41BB-AF54A694A58D063C"
+			RelativePath = "Images\WebApp.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\WebApp.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "07B1C1B8-1D8A-4DF1-9337E7296C3643E3"
+			RelativePath = "strthemgiohang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "strthemgiohang.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "11517B90-7302-4C5C-AB0BB80E4F1CE817"
+			RelativePath = "stroryboardNTNQ.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "stroryboardNTNQ.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "181CB3E1-204B-4AB7-AC5D8CAA35173E4C"
+			RelativePath = "Main.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Main.gui"/>
+		<FileInfo
+			ID = "1A469F4E-8149-4735-8D12E724EEE9143B"
+			RelativePath = "Images\RibbonApp_tn.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\RibbonApp_tn.jpg"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "1CEF6AF4-C95B-4F01-9BF158C475774491"
+			RelativePath = "a.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "a.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "2FA31A25-DD98-427A-9663DA60F764133A"
+			RelativePath = "strtuvanphanhoi.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "strtuvanphanhoi.gui"/>
+		<FileInfo
+			ID = "3078DE89-E5AD-4422-B3C3BD553794BEBD"
+			RelativePath = "Components\Header.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Components\Header.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "32F4A6C5-3F47-4371-8321575A88F9948C"
+			RelativePath = "storyboardQuanlyGiohang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "storyboardQuanlyGiohang.gui"/>
+		<FileInfo
+			ID = "353DEE60-CF95-40F5-AEF23A17D997DC57"
+			RelativePath = "Images\RibbonApp.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\RibbonApp.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "38765C4F-3417-4EA0-97604B6F8274B31E"
+			RelativePath = "Main-old.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Mian-old.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "5A347B71-CD94-4B7F-8EA28852C971C4AE"
+			RelativePath = "WinCustomColours.ini"
+			OriginalRoot = "$Project"
+			OriginalPath = "WinCustomColours.ini"/>
+		<FileInfo
+			ID = "6257F61E-93C8-4520-88AF114413A16B15"
+			RelativePath = "storyboardTimkiem.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "storyboardTimkiem.gui"/>
+		<FileInfo
+			ID = "6B889F36-A4AB-4ADC-AD008E2DA67CD46C"
+			RelativePath = "trang chủ.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "trang chủ.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "78807AAF-254C-4069-8201E543748A64BE"
+			RelativePath = "Screen 3.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 3.gui"/>
+		<FileInfo
+			ID = "7EBEF762-CAF3-4A6F-BAA49021EF73718E"
+			RelativePath = "Images\WindowsApp.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\WindowsApp.png"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "9AFDD166-AEB9-427B-9BDE7A9DF1C34E8E"
+			RelativePath = "Screen 2a.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 2.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "9C62BA0E-0504-4089-B98351CDE9C407F6"
+			RelativePath = "Welcome.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "Welcome.autosave"/>
+		<FileInfo
+			ID = "AC19B767-216F-40A2-8B60D6A98F38FE49"
+			RelativePath = "Background.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Background.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "B0A9DC9C-3711-483A-9E5F6A44D46F0392"
+			RelativePath = "nhà thuốc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "nhà thuốc.gui"/>
+		<FileInfo
+			ID = "B2372399-399F-4C3E-94F232771E1EA20F"
+			RelativePath = "abc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "abc.gui"/>
+		<FileInfo
+			ID = "C3AA778F-2200-4BBB-BE9CAEEA28574B78"
+			RelativePath = "Images\WebApp_tn.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\WebApp_tn.jpg"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "D8FBF616-F80D-4B08-B524A6626F090649"
+			RelativePath = "Images\WindowsApp_tn.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "Images\WindowsApp_tn.jpg"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E5A2F7AD-BD84-425A-AA7B35108C1225FD"
+			RelativePath = "Screen 1a.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 1.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "E630723E-C8BC-4156-BBA079EF2665E6B2"
+			RelativePath = "storyboardNhathuocNgocQuang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "storyboardNhathuocNgocQuang.gui"/>
+		<FileInfo
+			ID = "EAD3C5BC-2838-476F-9454DFB2235822E6"
+			RelativePath = "Screen 2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 2.gui"/>
+		<FileInfo
+			ID = "F151B998-C4BD-4D22-B0F93D25E558767A"
+			RelativePath = "Screen 1.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Screen 1.gui"/>
+		<FileInfo
+			ID = "F473AC58-1B6A-4B9A-A5C9314215053A51"
+			RelativePath = "strxoagiohang.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "strxoagiohang.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

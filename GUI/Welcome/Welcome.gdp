@@ -1,0 +1,24 @@
+<Project
+	CID = "1"
+	Title = "Welcome"
+	NextCID = "6">
+	<Links
+		CID = "1">
+		<Link
+			RootPath = "$Container"
+			Filename = ""
+			RelativePath = ""/>
+	</Links>
+	<Options
+		CID = "3"/>
+	<MainDesign
+		CID = "4"
+		FileID = "181CB3E1-204B-4AB7-AC5D8CAA35173E4C"
+		RootPath = "$Container"
+		RelativePathname = "Main.gui"/>
+	<CustomElementFolders
+		CID = "5">
+		<Folder
+			RelativePath = "Custom Elements\"/>
+	</CustomElementFolders>
+</Project>
